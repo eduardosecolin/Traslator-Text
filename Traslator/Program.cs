@@ -18,7 +18,7 @@ namespace Traslator
             Console.WriteLine("Original Text: " + text);
             Console.WriteLine();
             Console.WriteLine("---------------------------------------");
-            Console.WriteLine("Traslated Text: " + Util.TraslateText(text));
+            Console.WriteLine("Translated Text: " + Util.TraslateText(text));
             Console.ReadKey();
         }
     }
